@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Marlon Uriarte, Second Post"
-date: 2019-09-26
+date: 2018-09-26
 ---
 
 This week in class i started learning about pyret, pyret is a mix of scheme mit and racket the file names are called filename.arr.
