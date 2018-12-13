@@ -30,4 +30,4 @@ fi = place-image(stripe, half-width, stripe-height * 9.5, fo)
 all-stripes = place-image(stripe, half-width, stripe-height * 11.5, fi)
 place-image(star-base, 0, 0, all-stripes)
 ```
-
+This what i have so far for my flag project one of the challenges i am facing is getting the blue rectangle because i cant get the right size so it can be scaled.   
